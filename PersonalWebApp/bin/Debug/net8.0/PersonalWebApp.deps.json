@@ -1,0 +1,128 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PersonalWebApp/1.0.0": {
+        "dependencies": {
+          "AspNetStatic": "0.19.0"
+        },
+        "runtime": {
+          "PersonalWebApp.dll": {}
+        }
+      },
+      "AdvancedStringBuilder/0.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "AspNetStatic/0.19.0": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.2.87",
+          "TestableIO.System.IO.Abstractions.Wrappers": "19.2.87",
+          "ThrowGuard": "1.0.4",
+          "WebMarkupMin.Core": "2.14.0"
+        },
+        "runtime": {
+          "lib/net8.0/AspNetStatic.dll": {
+            "assemblyVersion": "0.19.0.0",
+            "fileVersion": "0.19.0.0"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions/19.2.87": {
+        "runtime": {
+          "lib/net8.0/TestableIO.System.IO.Abstractions.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.2.87.22897"
+          }
+        }
+      },
+      "TestableIO.System.IO.Abstractions.Wrappers/19.2.87": {
+        "dependencies": {
+          "TestableIO.System.IO.Abstractions": "19.2.87"
+        },
+        "runtime": {
+          "lib/net8.0/TestableIO.System.IO.Abstractions.Wrappers.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.2.87.22897"
+          }
+        }
+      },
+      "ThrowGuard/1.0.4": {
+        "runtime": {
+          "lib/net8.0/ThrowGuard.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "WebMarkupMin.Core/2.14.0": {
+        "dependencies": {
+          "AdvancedStringBuilder": "0.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebMarkupMin.Core.dll": {
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonalWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedStringBuilder/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IbN3r5whlJvi8MhCDPVpIb+NVScyUcKSdcJZrnoXFDyzPDISl3AbWouNBYIHRdZdfGuzqCQEhM1vkxbIKqQVaQ==",
+      "path": "advancedstringbuilder/0.1.0",
+      "hashPath": "advancedstringbuilder.0.1.0.nupkg.sha512"
+    },
+    "AspNetStatic/0.19.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MBcgtotVBQjW3UavCHh9aia50/oUcWvoCxX8Bb2HTdp96tdeymUXYguNIyYiG+iUCueCt4XjDeftFEjvLzjtpA==",
+      "path": "aspnetstatic/0.19.0",
+      "hashPath": "aspnetstatic.0.19.0.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions/19.2.87": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wxsAThFm6cvvoht4hV++DvHrmLLCpEKwywzNxgJJEmXKkvnEDGCkRWyoAKmrBNKhxwX8QGoBT9cOYCCX7vrt4Q==",
+      "path": "testableio.system.io.abstractions/19.2.87",
+      "hashPath": "testableio.system.io.abstractions.19.2.87.nupkg.sha512"
+    },
+    "TestableIO.System.IO.Abstractions.Wrappers/19.2.87": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2Fa0guLdRYRCpQte/TNVvLCTMRfaTxFZS/32OugutLpymvQV8qQmBwgb9fM9nPcn/Kt11oZ2kRfiuLlLlZRLew==",
+      "path": "testableio.system.io.abstractions.wrappers/19.2.87",
+      "hashPath": "testableio.system.io.abstractions.wrappers.19.2.87.nupkg.sha512"
+    },
+    "ThrowGuard/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qfgl91rv97tFxQKCSloc2WDhhCuQuGhWDYsAekscOXdMs72KtY3ezcmIUqHS86yW+Sp+Vx67CtBsTuanSit/gw==",
+      "path": "throwguard/1.0.4",
+      "hashPath": "throwguard.1.0.4.nupkg.sha512"
+    },
+    "WebMarkupMin.Core/2.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fRydp8dkCWkC3RDL+7ABWLLTgAnFEb5k7flhWrTlyGatg0rpT4HArKnGmfgfQ27FVMa1lCOAzFE1ORF5y5Pzbw==",
+      "path": "webmarkupmin.core/2.14.0",
+      "hashPath": "webmarkupmin.core.2.14.0.nupkg.sha512"
+    }
+  }
+}

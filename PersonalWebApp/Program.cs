@@ -1,7 +1,23 @@
+using AspNetStatic;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton<IStaticResourcesInfoProvider>(
+  new StaticResourcesInfoProvider(
+    new ResourceInfoBase[]
+    {
+      new PageResource("/"),
+      new PageResource("/privacy"),
+      //new PageResource("/blog/articles/posts/1") { OutFile = "blog/post-1.html" },
+      //new PageResource("/blog/articles/posts/2") { OutFile = "blog/post-2-dark.html", Query = "?theme=dark" },
+      new CssResource("/lib/bootstrap/dist/css/bootstrap.min.css") { OptimizerType = OptimizerType.None },
+      new CssResource("/css/site.css"),
+      new JsResource("/js/site.js"),
+      new BinResource("/favicon.png")
+    }));
 
 var app = builder.Build();
 
@@ -15,6 +31,8 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.GenerateStaticContent(@"C:\SSG-Output-Folder");
 
 app.UseRouting();
 
