@@ -19,6 +19,18 @@ html {
 
 body {
     margin-bottom: 60px;
-    background: #264653;
-    
+    background: #212e53;
+    font-family: 'Afacad', sans-serif;
+    color: antiquewhite;
+    font-size: large;
+}
+
+h1 {
+    color: ghostwhite;
+    font-family: 'Afacad', serif;
+}
+
+h2 {
+    color: ghostwhite;
+    font-family: 'Afacad', serif;
 }

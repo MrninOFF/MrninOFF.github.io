@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\wwwroot\\image.png",
+      "PackagePath": "staticwebassets\\image.png"
+    },
+    {
       "Id": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
