@@ -32,7 +32,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
-app.GenerateStaticContent(@"C:\SSG-Output-Folder");
+app.GenerateStaticContent(@"C:\Users\Mrnin\source\repos\MrninOFF.github.io");
 
 app.UseRouting();
 
