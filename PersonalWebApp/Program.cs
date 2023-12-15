@@ -16,7 +16,8 @@ builder.Services.AddSingleton<IStaticResourcesInfoProvider>(
       new CssResource("/lib/bootstrap/dist/css/bootstrap.min.css") { OptimizerType = OptimizerType.None },
       new CssResource("/css/site.css"),
       new JsResource("/js/site.js"),
-      new BinResource("/image.png")
+      new BinResource("/image.png"),
+      new BinResource("/favicon.png")
     }));
 
 var app = builder.Build();
