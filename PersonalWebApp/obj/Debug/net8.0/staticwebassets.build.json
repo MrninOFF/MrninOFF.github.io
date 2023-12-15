@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2Hp86mTxF0FNN3rJsFBSDWQyKUDSDO8DyM5ZpZ3SWtE=",
+  "Hash": "KZLO6Jrda58JtjH1rBa2oz1eo4Kci9pcjmbom+G0LlA=",
   "Source": "PersonalWebApp",
   "BasePath": "_content/PersonalWebApp",
   "Mode": "Default",
@@ -72,25 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\wwwroot\\favicon.ico",
-      "SourceId": "PersonalWebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\wwwroot\\",
-      "BasePath": "_content/PersonalWebApp",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\wwwroot\\favicon.png",
