@@ -31,7 +31,6 @@ C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\s
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\scopedcss\bundle\PersonalWebApp.styles.css
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\scopedcss\projectbundle\PersonalWebApp.bundle.scp.css
-C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\PersonalWebApp.csproj.CopyComplete
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\PersonalWebApp.dll
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\refint\PersonalWebApp.dll
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\PersonalWebApp.pdb
@@ -39,3 +38,4 @@ C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\P
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\ref\PersonalWebApp.dll
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\bin\Debug\net8.0\package-lock.json
 C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\bin\Debug\net8.0\package.json
+C:\Users\Mrnin\source\repos\MrninOFF.github.io\PersonalWebApp\obj\Debug\net8.0\Personal.CAD93096.Up2Date
