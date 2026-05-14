@@ -1,15 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "vcjOARiFGB8=",
+  "dgSpecHash": "0qdifLO/MgE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mrnin\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\PersonalWebApp.csproj",
+  "projectFilePath": "C:\\Users\\tommr\\source\\repos\\MrninOFF.github.io\\PersonalWebApp\\PersonalWebApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mrnin\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
-    "C:\\Users\\Mrnin\\.nuget\\packages\\aspnetstatic\\0.19.0\\aspnetstatic.0.19.0.nupkg.sha512",
-    "C:\\Users\\Mrnin\\.nuget\\packages\\testableio.system.io.abstractions\\19.2.87\\testableio.system.io.abstractions.19.2.87.nupkg.sha512",
-    "C:\\Users\\Mrnin\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\19.2.87\\testableio.system.io.abstractions.wrappers.19.2.87.nupkg.sha512",
-    "C:\\Users\\Mrnin\\.nuget\\packages\\throwguard\\1.0.4\\throwguard.1.0.4.nupkg.sha512",
-    "C:\\Users\\Mrnin\\.nuget\\packages\\webmarkupmin.core\\2.14.0\\webmarkupmin.core.2.14.0.nupkg.sha512"
+    "C:\\Users\\tommr\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\aspnetstatic\\0.19.0\\aspnetstatic.0.19.0.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\testableio.system.io.abstractions\\19.2.87\\testableio.system.io.abstractions.19.2.87.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\19.2.87\\testableio.system.io.abstractions.wrappers.19.2.87.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\throwguard\\1.0.4\\throwguard.1.0.4.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\webmarkupmin.core\\2.14.0\\webmarkupmin.core.2.14.0.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\tommr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
   ],
   "logs": []
 }
